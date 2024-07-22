@@ -67,7 +67,7 @@ class Mago(Personaje):
         return self._inteligencia * self._libro - enemigo.get_defensa()
 
 
-# Ejemplo de uso de herencia
+# Ejemplo de uso de 4.1.4herencia
 personaje_1 = Guerrero("Guts", 20, 10, 4, 100, 4)
 personaje_2 = Mago("Vanessa", 5, 15, 4, 100, 3)
 

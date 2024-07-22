@@ -15,7 +15,7 @@ def combate(jugador_1, jugador_2):
         print("\nEmpate")
 
 
-# Ejemplo de uso de polimorfismo en combate
+# Ejemplo de uso de 4.1.5polimorfismo en combate
 personaje_1 = Guerrero("Guts", 20, 10, 4, 100, 4)
 personaje_2 = Mago("Vanessa", 5, 15, 4, 100, 3)
 
